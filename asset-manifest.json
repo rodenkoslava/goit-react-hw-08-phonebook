@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/goit-react-hw-08-phonebook/static/css/main.cd2e038f.css",
+    "main.js": "/goit-react-hw-08-phonebook/static/js/main.0f865b7e.js",
+    "static/js/526.1a463ea0.chunk.js": "/goit-react-hw-08-phonebook/static/js/526.1a463ea0.chunk.js",
+    "static/js/854.5e33f6c9.chunk.js": "/goit-react-hw-08-phonebook/static/js/854.5e33f6c9.chunk.js",
+    "static/js/503.73129626.chunk.js": "/goit-react-hw-08-phonebook/static/js/503.73129626.chunk.js",
+    "static/js/144.34aaf393.chunk.js": "/goit-react-hw-08-phonebook/static/js/144.34aaf393.chunk.js",
+    "static/js/846.95ed5466.chunk.js": "/goit-react-hw-08-phonebook/static/js/846.95ed5466.chunk.js",
+    "static/js/241.c60cacbb.chunk.js": "/goit-react-hw-08-phonebook/static/js/241.c60cacbb.chunk.js",
+    "static/js/860.1ce8d547.chunk.js": "/goit-react-hw-08-phonebook/static/js/860.1ce8d547.chunk.js",
+    "static/js/389.bb13219b.chunk.js": "/goit-react-hw-08-phonebook/static/js/389.bb13219b.chunk.js",
+    "index.html": "/goit-react-hw-08-phonebook/index.html",
+    "main.cd2e038f.css.map": "/goit-react-hw-08-phonebook/static/css/main.cd2e038f.css.map",
+    "main.0f865b7e.js.map": "/goit-react-hw-08-phonebook/static/js/main.0f865b7e.js.map",
+    "526.1a463ea0.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/526.1a463ea0.chunk.js.map",
+    "854.5e33f6c9.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/854.5e33f6c9.chunk.js.map",
+    "503.73129626.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/503.73129626.chunk.js.map",
+    "144.34aaf393.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/144.34aaf393.chunk.js.map",
+    "846.95ed5466.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/846.95ed5466.chunk.js.map",
+    "241.c60cacbb.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/241.c60cacbb.chunk.js.map",
+    "860.1ce8d547.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/860.1ce8d547.chunk.js.map",
+    "389.bb13219b.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/389.bb13219b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd2e038f.css",
+    "static/js/main.0f865b7e.js"
+  ]
+}
